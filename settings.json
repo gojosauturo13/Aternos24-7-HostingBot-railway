@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "GANGAR",
+    "username": "PIKACHU",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "GANGARFX.aternos.me",
-    "port": 43243,
+    "ip": "PeacefulFriendsSmp.aternos.me",
+    "port": 50132,
     "version": "1.20.1",
     "try-creative": false
   },
@@ -29,10 +29,12 @@
     "chat-messages": {
       "enabled": true,
       "repeat": true,
-      "repeat-delay": 120,
+      "repeat-delay": 60,
       "messages": [
         "I'm a regular player",
         "I like to play Minecraft!"
+        "Sub to @AuvyraFX!"
+        "Sub to @DuoVate_Boys!"
       ]
     },
     "chat-log": true,
@@ -73,7 +75,7 @@
   },
   "discord": {
     "enabled": false,
-    "webhookUrl": "YOUR_DISCORD_WEBHOOK_URL_HERE",
+    "webhookUrl": "https://discord.com/api/webhooks/1568552787015372840/E1qlKv2t-lsBcXqdmeoWev0V4YMQom83gOsgjOeFq4VWa_UlQJm52cxDl2EG3b6rx4i6",
     "events": {
       "connect": true,
       "disconnect": true,
